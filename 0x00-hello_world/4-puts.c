@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * this main -it to print output using puts
- * return alwayse(0) 
+ * main -it to print output using put
+ *
+ * Return: always (0)
+ *
  */
 int main(void)
 {
