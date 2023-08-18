@@ -6,10 +6,10 @@
  *
  * Return: 1 in case upper case, 0 otherwis
  */
-#include <ctype.h>
+
 int _isupper(int c)
 {
-	if (c >65 && c<90)
+	if (c >'A' && c<'Z')
 		return (1);
 	else
 		return (0);
